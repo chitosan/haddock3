@@ -1,5 +1,6 @@
 # HADDOCK3 Installation Guide (Linux/Ubuntu)
 This document provides detailed instructions for installing the HADDOCK3 software package on a Linux system (e.g., Ubuntu/Debian). HADDOCK3 requires a pre-compiled version of its core engine, CNS_Solve, as a prerequisite.
+A video is posted at https://youtu.be/2bltJ6lerg8
 
 ## 1. Prerequisites and System Setup
 Ensure your system has the necessary build tools and compilers installed.
